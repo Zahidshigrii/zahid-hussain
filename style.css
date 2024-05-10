@@ -1,0 +1,39 @@
+body{
+    background: black;
+}
+.footer {
+    color: white;
+    text-align: center
+    ;
+}
+.footer-navbars{
+    display: inline-block;
+    list-style: none;
+}
+.footer-navbar{
+display: inline-block;
+padding: 12px 20px;
+
+}
+
+.footer-anchor-tag {
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.social-media-icons {
+    color: green;
+
+}
+.fa-brands {
+    font-size: 22px;
+    margin-left: 20px;
+
+}
+.paragraph-tag {
+    text-decoration: none;
+    color: green;
+    
+}
